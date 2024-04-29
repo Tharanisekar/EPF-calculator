@@ -1,0 +1,30 @@
+.calculator {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.calculator .card-header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.calculator .form-group label {
+    font-weight: bold;
+}
+
+.calculator .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.calculator .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+#result {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
